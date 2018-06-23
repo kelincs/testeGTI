@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteGTIClient", "TesteGTIClient\TesteGTIClient.csproj", "{27A4CC25-803E-4940-A945-2F762CC09CCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteGTIWebAPI", "TesteGTIWebAPI\TesteGTIWebAPI.csproj", "{37FDF8A3-DAEC-43A3-9AB1-ECBB49C50435}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteGTIWebAPI.Tests", "TesteGTIWebAPI.Tests\TesteGTIWebAPI.Tests.csproj", "{67B9A047-FDC7-44F6-98CD-ECA04758099B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27A4CC25-803E-4940-A945-2F762CC09CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A4CC25-803E-4940-A945-2F762CC09CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A4CC25-803E-4940-A945-2F762CC09CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A4CC25-803E-4940-A945-2F762CC09CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37FDF8A3-DAEC-43A3-9AB1-ECBB49C50435}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37FDF8A3-DAEC-43A3-9AB1-ECBB49C50435}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37FDF8A3-DAEC-43A3-9AB1-ECBB49C50435}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37FDF8A3-DAEC-43A3-9AB1-ECBB49C50435}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67B9A047-FDC7-44F6-98CD-ECA04758099B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67B9A047-FDC7-44F6-98CD-ECA04758099B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67B9A047-FDC7-44F6-98CD-ECA04758099B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67B9A047-FDC7-44F6-98CD-ECA04758099B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

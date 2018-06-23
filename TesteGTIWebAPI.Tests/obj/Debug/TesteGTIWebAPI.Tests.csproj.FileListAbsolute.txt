@@ -1,0 +1,16 @@
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\bin\Debug\OrderedTest.orderedtest
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\bin\Debug\TesteGTIWebAPI.Tests.dll
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\bin\Debug\TesteGTIWebAPI.Tests.pdb
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\bin\Debug\TesteGTIWebAPI.dll
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\bin\Debug\System.Web.Http.dll
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\bin\Debug\TesteGTIWebAPI.pdb
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\bin\Debug\System.Web.Http.xml
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\obj\Debug\TesteGTIWebAPI.Tests.csprojResolveAssemblyReference.cache
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\obj\Debug\TesteGTIWebAPI.Tests.dll
+D:\TesteGTI\TesteGTI\TesteGTIWebAPI.Tests\obj\Debug\TesteGTIWebAPI.Tests.pdb
